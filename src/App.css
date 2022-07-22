@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.guessCard {
+  width: 200px;
+  height: 200px;
+  box-shadow: 4px 4px gray;
+  border: 4px solid black;
+}
+
+.container {
+  display: flex;
+  gap: 25px;
+}
